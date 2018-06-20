@@ -1,0 +1,11 @@
+## Ignore files without extensions => executables
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+
+.idea
+
